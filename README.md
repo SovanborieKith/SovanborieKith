@@ -10,13 +10,13 @@
 
 - I have a basic understanding of **HTML**, **CSS**, and **JavaScript**.
  
-- 🔭 My next steps: diving deeper into **React frameworks** and exploring **Supabase**.
+- 🔭 My next steps: diving deeper into **Python** and working on machine learning projects.
 
 ---
 
-<h3 align="left"> 📫 How to reach me:</h3>
-<p align="left">I’m still working on setting up my contact information, but stay tuned! I’ll add ways to reach out soon. 😊</p>
+<h3 align="left"> 📫 Reach out to me through:</h3>
+<p align="left">My Email Address: sovannboreykith@yahoo.com 😊</p>
 
 ---
 
-<p align="left">✨ <em>Thank you for visiting my GitHub profile! 😄 Feel free to check out my repositories and follow my journey as I grow in this field.</em> ✨</p>
+<p align="left">✨ <em>Peace</em> ✨</p>
